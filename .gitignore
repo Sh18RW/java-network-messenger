@@ -1,5 +1,5 @@
 # Eclipse settings
-.settings/
+*.settings/
 
 # MacOS filesystem info
 *.DS_STORE
