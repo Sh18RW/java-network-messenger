@@ -1,5 +1,6 @@
 # Eclipse settings
 .settings/
+.classpath
 .project
 
 # MacOS filesystem info
