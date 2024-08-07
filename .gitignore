@@ -1,7 +1,6 @@
 # Eclipse settings
 .settings/
 .project
-.classpath
 
 # MacOS filesystem info
 **/.DS_STORE
