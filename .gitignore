@@ -1,0 +1,8 @@
+# Eclipse settings
+.settings/
+
+# MacOS filesystem info
+.DS_STORE/
+
+# building folders
+**/target/
