@@ -2,7 +2,9 @@
 .settings/
 
 # MacOS filesystem info
-.DS_STORE/
+*.DS_STORE
+# Others
+[Tt]humbs.db
 
 # building folders
 **/target/
