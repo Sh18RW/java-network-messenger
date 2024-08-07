@@ -1,10 +1,14 @@
 # Eclipse settings
-*.settings/
+.settings/
+.project
 
 # MacOS filesystem info
-*.DS_STORE
+**/.DS_STORE
 # Others
-[Tt]humbs.db
+**/[Tt]humbs.db
 
 # building folders
 **/target/
+
+# logs
+*.log
