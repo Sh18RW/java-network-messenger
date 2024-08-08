@@ -3,6 +3,10 @@
 .classpath
 .project
 
+# IDEA
+.idea/
+*.iml
+
 # MacOS filesystem info
 **/.DS_STORE
 # Others
