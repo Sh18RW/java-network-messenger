@@ -17,3 +17,6 @@
 
 # logs
 *.log
+
+# secrets
+secret.properties
